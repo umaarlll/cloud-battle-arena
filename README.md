@@ -3,19 +3,20 @@
 A real-time multiplayer Agar.io-style game deployed on Google Cloud Platform.
 
 ## Architecture
-Browser (Frontend) → GCP Compute Engine VM (Node.js WebSocket Server)
+Firebase Hosting (Frontend) → GCP Compute Engine VM (Node.js WebSocket Server)
 
 ## Tech Stack
 - **Backend:** Node.js WebSocket game server (OgarII)
 - **Frontend:** HTML/CSS/JS browser client
 - **Containerization:** Docker
-- **Cloud:** GCP Compute Engine, Artifact Registry, VPC Firewall
+- **Cloud:** GCP Compute Engine, Artifact Registry, VPC Firewall, Firebase Hosting
 
 ## Deployment Steps
 1. Build and push Docker image to GCP Artifact Registry
 2. Deploy container on Compute Engine VM
 3. Configure VPC firewall to allow TCP on port 8080
-4. Connect browser frontend to VM external IP
+4. Host frontend on Firebase Hosting
+5. Connect browser frontend to VM external IP
 
 ## Local Setup
 ```bash
