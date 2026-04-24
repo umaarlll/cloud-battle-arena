@@ -1,7 +1,7 @@
 ## Demo
 
 ### Local Docker Run
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f811b184-6ba8-429c-b5e1-eb5587eff4b1" />
+<img width="1460" height="529" alt="WhatsApp Image 2026-04-24 at 09 00 53" src="https://github.com/user-attachments/assets/3c42927b-ec73-4731-bc45-60c85d3696ae" />
 
 ### Game Running in Browser
 <img width="1600" height="852" alt="gdgoc-pic3" src="https://github.com/user-attachments/assets/713ed208-c5a2-47a7-9341-97f351d04b9b" />
