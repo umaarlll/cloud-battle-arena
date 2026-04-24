@@ -1,3 +1,11 @@
+## Demo
+
+### Local Docker Run
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f811b184-6ba8-429c-b5e1-eb5587eff4b1" />
+
+### Game Running in Browser
+<img width="1600" height="852" alt="gdgoc-pic3" src="https://github.com/user-attachments/assets/713ed208-c5a2-47a7-9341-97f351d04b9b" />
+
 # Cloud Battle Arena — Multiplayer Agar.io Clone on GCP
 
 A fully deployed, cloud-hosted multiplayer browser game based on the Agar.io mechanic. Built and deployed end-to-end using Docker, Google Cloud Platform (Compute Engine + Artifact Registry), and Firebase Hosting — as part of a GDGoC UM Cloud Workshop.
